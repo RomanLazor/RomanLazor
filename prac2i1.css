@@ -1,0 +1,86 @@
+.menu{
+    text-align: center;
+    color: orange;
+    text-transform: capitalize;
+    font-family: 'online', sans-serif;
+    padding-top: 4px;
+    font-size: 30px;
+    cursor: pointer;
+    
+}
+
+hr { 
+        
+    color: orange;
+    height: 3px;
+    width: 50px;
+    background-color: orange;
+     
+} 
+
+.text-menu {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.all {
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20230910/pngtree-a-large-container-port-in-the-evening-image_13153514.png);
+    background-repeat: no-repeat;
+    background-position: center center; 
+    background-attachment: fixed; 
+    -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+    -o-background-size: cover; 
+    background-size: cover; 
+    height: 100vh;
+    height: 98vh;
+    display: flex;
+    flex-direction: column;
+    background-color: black;    
+}
+
+img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: relative;
+}
+
+.square {
+    width: 50%;
+    margin: auto;
+    height: 300px;
+    background-color: white;
+    padding: 2%;
+}
+
+.table-container {
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+}
+
+.down {
+    text-align: center;
+    text-underline-offset: 5;
+    padding: 2%;
+    color:rgb(255, 255, 255);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'online', sans-serif;
+    background-color: #24262b;
+    padding: 2.3%;
+}
